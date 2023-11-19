@@ -1,6 +1,5 @@
 import React from 'react';
 import files from '../assets/illustration-intro.png';
-import curve from '../assets/bg-curvy-mobile.svg';
 
 export const Header = () => {
   return (
