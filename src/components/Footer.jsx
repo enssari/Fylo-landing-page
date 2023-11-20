@@ -47,7 +47,7 @@ export const Footer = () => {
           <div
             className={`flex flex-col space-y-10 lg:flex-row lg:space-y-0 lg:space-x-9
           ${!isValid ? "space-y-[.8rem] lg:space-x-[-5.2rem]" : ""} ${
-              isEmpty ? "lg:space-x-[-2.9rem]" : ""
+              isEmpty ? "lg:space-x-[-2.89rem]" : ""
             }`}
             id="input-and-button"
           >
